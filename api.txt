@@ -1,0 +1,5 @@
+api
+https://fx .... naws.com/dev/
+
+db
+arn:aws:dynamodb:us-ea .... /PowerOfMathDatabase
