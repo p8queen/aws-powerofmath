@@ -3,3 +3,9 @@ https://fx .... naws.com/dev/
 
 db
 arn:aws:dynamodb:us-ea .... /PowerOfMathDatabase
+
+api-key, post request
+PowerOfMathAPIkey
+5Dv7T4JDXT5aVIvYry3Sz9zNWVPQE8kO6kvao43o
+
+5Dv7T4JDXT5aVIvYry3Sz9zNWVPQE8kO6kvao43o
